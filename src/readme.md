@@ -63,6 +63,17 @@ and meeting the exclusivity constraint on stops.
 
 5. **Error Handling:**
    - The code is updated to handle potential errors, such as index out of bounds during initialization of cab positions.
+  
+   **another approach**
+   Dijkstra's Algorithm:
+      Apply Dijkstra's algorithm to find the shortest paths from the initial positions of both cabs to all stops.
+      Maintain a priority queue to explore the nearest neighbors first.
+   Optimization Algorithm (Per Cab):
+      For each cab:
+         Start from the initial position.
+         Use the Dijkstra's algorithm to find the shortest path to all stops.
+         Choose the next stop as the one with the shortest path that has not been covered.
+         Add the chosen stop to the cab's list of stops.
 
 **Overall Process:**
 1. Generate a graph representing cities and distances.
