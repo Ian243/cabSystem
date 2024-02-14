@@ -25,6 +25,8 @@ Tasks:
 • Address potential challenges such as data latency or inaccuracies to maintain system
 reliability.
 
+**the below solutions are just a basic implementation with java**
+
 ## **_for Admin's Cab allocation**_ 
 
 Let's summarize the problem statement and the approach used to solve it:
