@@ -29,7 +29,7 @@ reliability.
 
 ## **_for Admin's Cab allocation**_ 
 
-Let's summarize the problem statement and the approach used to solve it:
+Let's summarize the problem statement :
 
 **Problem Statement:**
 The problem involves optimizing the paths of two or more cabs in a set of cities to cover specific stops and reach 
@@ -93,8 +93,7 @@ a specific situation for above statement is travelling salesman problem, where a
 cover all the cities once in the minimum distance.
 
 ## **_for Employee's cab search optimization:_**
-
-Certainly! Let's summarize the problem statement and the corresponding solutions:
+Let's summarize the problem statement:
 
 **Problem Statement:**
 The task is to find the first 5 nearest cabs to a randomly generated customer location using 
